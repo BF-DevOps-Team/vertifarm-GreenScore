@@ -24,3 +24,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --port 8003
 python -m pytest
 ```
+## Équipe
+- Mohammed Anouar Chairi B — mainteneur du dépôt green-score
+>
